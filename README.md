@@ -15,10 +15,10 @@ I have made this into a Jekyll Theme. Checkout the live demo [here](https://webj
   </tr>
   <tr>
     <td>
-        <img src="https://webjeda.com/online-cv/assets/images/desktop.png?raw=true" width="600"/>
+        <img src="" width="600"/>
     </td>
     <td>
-        <img src="https://webjeda.com/online-cv/assets/images/mobile.png?raw=true" width="250"/>
+        <img src="" width="250"/>
     </td>
   </tr>
 </table>
