@@ -3,10 +3,13 @@
 </a>
 
 # Orbit
-> This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/). 
-> Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
 
-I have made this into a Jekyll Theme. Checkout the live demo [here](https://webjeda.com/online-cv/).
+> This theme is designed by Xiaoying Riley at
+> [3rd Wave Media](http://themes.3rdwavemedia.com/). Visit her
+> [website](http://themes.3rdwavemedia.com/) for more themes.
+
+I have made this into a Jekyll Theme. Checkout the live demo
+[here](https://webjeda.com/online-cv/).
 
 <table>
   <tr>
@@ -23,23 +26,24 @@ I have made this into a Jekyll Theme. Checkout the live demo [here](https://webj
   </tr>
 </table>
 
-
 ## Skins
 
 There are 6 color schemes available:
 
-| Blue | Turquoise | Green |
-|---------|---------|---------|
+| Blue                                                                          | Turquoise                                                                          | Green                                                                          |
+| ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | <img src="https://webjeda.com/online-cv/assets/images/blue.jpg" width="300"/> | <img src="https://webjeda.com/online-cv/assets/images/turquoise.jpg" width="300"/> | <img src="https://webjeda.com/online-cv/assets/images/green.jpg" width="300"/> |
 
-| Berry | Orange | Ceramic |
-|---------|---------|---------|
+| Berry                                                                          | Orange                                                                          | Ceramic                                                                          |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | <img src="https://webjeda.com/online-cv/assets/images/berry.jpg" width="300"/> | <img src="https://webjeda.com/online-cv/assets/images/orange.jpg" width="300"/> | <img src="https://webjeda.com/online-cv/assets/images/ceramic.jpg" width="300"/> |
 
 ## Credits
 
-Thanks to [Nelson Estevão](https://github.com/nelsonmestevao) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=nelsonmestevao).
+Thanks to [Nelson Estevão](https://github.com/nelsonmestevao) for all the
+[contributions](https://github.com/sharu725/online-cv/commits?author=nelsonmestevao).
 
-Thanks to [t-h-e(sfrost)](https://github.com/t-h-e) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=t-h-e).
+Thanks to [t-h-e(sfrost)](https://github.com/t-h-e) for all the
+[contributions](https://github.com/sharu725/online-cv/commits?author=t-h-e).
 
 Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com).
